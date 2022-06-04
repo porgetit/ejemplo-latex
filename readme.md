@@ -82,4 +82,4 @@ print(a)
 * [x] Tarea 1
 * [x] Tarea 2
 * [x] Tarea 3
-* [] Tarea 4
+* [ ] Tarea 4
