@@ -83,3 +83,9 @@ print(a)
 * [x] Tarea 2
 * [x] Tarea 3
 * [ ] Tarea 4
+
+@faztweb
+
+Gracias bro! Super buen vídeo!
+
+:rocket:
